@@ -1,6 +1,6 @@
 ﻿# Java-Pro
-От текущего курса я ожидаю получить новые знания, 
-научиться их применять и целью моей, по завершению курса, будет трудоустройство.
+From the current course, I expect to gain new knowledge,
+learn how to apply them and my goal, upon completion of the course, will be employment.
 
 
 
